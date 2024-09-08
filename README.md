@@ -1,4 +1,6 @@
 # godaddy-certbot-dns-challenge-hooks
+This project has been archived as godaddy have removed API access for people with less than 50 domains
+
 Certbot manual-auth-hook and manual-cleanup-hook scripts to support DNS challenge on godaddy API. 
 Created to support Wildcards on sub-sub domains, eg. *.test.example.com.
 
